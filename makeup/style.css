@@ -1,9 +1,26 @@
 .mysha{
-    background-color: blanchedalmond;
+    background-color: rgb(158, 78, 121);
     font-style: oblique;
-    padding: auto;
+    padding: 30px 40px 30px;
+    border-radius: 30%;
+    border-color: rgb(189, 121, 18);
+    border-style: dotted;
+    box-shadow: 3px;
+   margin: 5px;
+    font-size: larger;
+    font-weight: bold;
 }
 li{
     font-size: larger;
     color: tomato;
+}
+
+#another{
+    padding:10%;
+}
+body{
+    background-image: url('StockCake-Social\ Media\ Tree_1719943283.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
