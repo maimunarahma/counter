@@ -2,17 +2,19 @@
     background-color: rgb(158, 78, 121);
     font-style: oblique;
     padding: 30px 40px 30px;
-    border-radius: 30%;
+    border-radius: 10px;
     border-color: rgb(189, 121, 18);
     border-style: dotted;
-    box-shadow: 3px;
-   margin: 5px;
+    height: 400px; width:300px;
+   margin: 30px 30 px 30pxs;
     font-size: larger;
     font-weight: bold;
 }
 li{
-    font-size: larger;
-    color: tomato;
+    font-weight: bolder;
+    color: rgb(16, 16, 15);
+    font size: 40px;
+
 }
 
 #another{
